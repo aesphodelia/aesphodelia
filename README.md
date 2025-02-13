@@ -1,3 +1,3 @@
-- currently learning React
-- tg: @aesphodelia
-- 20 y.o., 🇰🇿 Kazakhstan
+- currently learning Ruby on Rails
+- tg: @halfyyhalfyy
+- 20 y.o., 🇰🇿 Almaty
