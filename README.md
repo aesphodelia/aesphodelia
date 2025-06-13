@@ -1,3 +1,3 @@
-- currently learning Ruby on Rails
+- currently learning PHP & Laravel
 - tg: @halfyyhalfyy
 - 20 y.o., 🇰🇿 Almaty
